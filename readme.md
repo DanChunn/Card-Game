@@ -6,6 +6,7 @@ compared to determine the winner of the round (whose score will be increased) an
 score will be decreased). A scoreboard should be displayed at the end of each round (to track player progress).
 Rounds will continue until an overall game winner is determined. 
 
-####Primary Technology Used in this application:
+#### Primary Technology Used in this application:
+
 C#
 Visual Studio
